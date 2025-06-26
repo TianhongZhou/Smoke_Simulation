@@ -4,11 +4,11 @@ Based on [Compact Poisson Filters for Fast Fluid Simulation](https://dl.acm.org/
 
 Static Scene vs Houdini
 
-![](compare_houdini.gif)
+![](stick.gif)
 
 Wukong Scene
 
-![](stick.gif)
+![](compare_houdini.gif)
 
 Ball Scene
 
